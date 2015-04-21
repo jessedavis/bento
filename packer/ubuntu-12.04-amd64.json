@@ -191,7 +191,7 @@
     }
   ],
   "variables": {
-    "chef_version": "provisionerless",
+    "chef_version": "12.2.1",
     "mirror": "http://releases.ubuntu.com"
   }
 }
