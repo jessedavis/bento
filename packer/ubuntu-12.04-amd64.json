@@ -191,7 +191,7 @@
     }
   ],
   "variables": {
-    "chef_version": "12.2.1",
+    "chef_version": "12.4.3",
     "mirror": "http://releases.ubuntu.com"
   }
 }
